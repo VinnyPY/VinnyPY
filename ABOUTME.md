@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VinnyPY
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Discord.py and python
+- 💞️ I’m looking to collaborate on Discord.py and other python stuff.
+- 📫 How to reach me Discord User id ||849405140796702811||
